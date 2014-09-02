@@ -1,0 +1,3 @@
+[submodule "submoduleTestRepo2"]
+	path = submoduleTestRepo2
+	url = https://github.com/joel-airspring/testRepo2.git
